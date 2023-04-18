@@ -95,22 +95,24 @@
 // var numberOfCats = prompt("How many cats?"); 
 // var tooManyCats = numberOfCats + 1;
 
-var engnum = +prompt("Enter Your Eng Marks")
-var urdunum = +prompt("Enter Your Urdu Marks")
-var islnum = +prompt("Enter Your Islamiat Marks")
-var mathsnum = +prompt("Enter Your Maths Marks")
+// paractice
+
+// var engnum = +prompt("Enter Your Eng Marks")
+// var urdunum = +prompt("Enter Your Urdu Marks")
+// var islnum = +prompt("Enter Your Islamiat Marks")
+// var mathsnum = +prompt("Enter Your Maths Marks")
 
 
-var result = engnum + urdunum + islnum + mathsnum
-var percent = (result / 400) * 100
+// var result = engnum + urdunum + islnum + mathsnum
+// var percent = (result / 400) * 100
 
 
-console.log(percent)
+// console.log(percent)
 
 
-if (percent >= 90) {
-    console.log("Grade A")
-}
-else if (percent >= 80) {
-    console.log("Grade B")
-}
+// if (percent >= 90) {
+//     console.log("Grade A")
+// }
+// else if (percent >= 80) {
+//     console.log("Grade B")
+// }
